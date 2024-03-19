@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522560156595",
+    "project_id": "crudriverpod-9432d",
+    "storage_bucket": "crudriverpod-9432d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522560156595:android:f51deed3da7c537d0791c6",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAhIJIsmHCAkRxukp6MOVCbgA-50wYOxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
