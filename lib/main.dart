@@ -29,9 +29,11 @@ void main()async {
 class Crud extends StatelessWidget {
   const Crud({super.key});
 
+  ///comment added
+
   @override
-  Widget build(BuildContext context) {
-    w=MediaQuery.of(context).size.width;
+  Widget build(BuildContext context) {  //gg
+    w=MediaQuery.of(context).size.width; //gg
     h=MediaQuery.of(context).size.height;
     return GestureDetector(
       onTap: () {
